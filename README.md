@@ -1,2 +1,2 @@
-# gama-challange-ecommerce
-Desafio realizado no Hiring Coders #2. Esse desafio consiste em elaborar uma landing page de um ecommerce especial de balckfriday.
+# Hiring Coders #2 - Desafio 1
+Esse desafio consiste em elaborar uma landing page de um ecommerce especial de balckfriday.
