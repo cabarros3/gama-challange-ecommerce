@@ -18,8 +18,11 @@ A Purple Beauty é um ecommerce de cosméticos, traz em seu catálogo uma grande
 ## Paleta de cores
 A inspiração veio da paleta de cores da HBO MAX que possui algumas tonalidades de roxo.
 ![](https://t.ctcdn.com.br/OQ3vWFq_ZlRoKSFI1w0iQHEI1BE=/512x288/smart/i381617.jpeg)
+
 Paleta de cores da HBO MAX [aqui](https://coolors.co/e5dbf7-b245fc-4500c0-362ac6-3e7ed7-b245fc-3d4ed1)
 
 Logo, por se tratar de um evento black friday, a paleta de cores do projeto teve a adição do preto.
+![](https://github.com/cabarros3/gama-challange-ecommerce/blob/main/Purple%20Beauty%20Palette.png)
 
+Paleta de cores do projeto disponível [aqui](https://coolors.co/a2a2a2-000000-3a2684-23174f-a2a2a2)
 
