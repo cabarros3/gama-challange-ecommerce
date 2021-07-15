@@ -49,5 +49,5 @@ A lógica do javascript no projeto seguiu os seguintes passos:
 
 Esta é a aparência do site quando está na responsividade
 
-![]()
+![](https://github.com/cabarros3/gama-challange-ecommerce/blob/main/assets/images/responsivo.PNG)
 
