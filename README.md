@@ -31,7 +31,7 @@ A imagem de fundo foi escolhida no unsplash e você pode a encontrar [aqui](http
 
 Um menu e dois containers para mensagem da black friday e formulário
 
-![]()
+![](https://github.com/cabarros3/gama-challange-ecommerce/blob/main/assets/images/Estrutura.png)
 
 ### Estrutura do js
 
@@ -44,4 +44,10 @@ A lógica do javascript no projeto seguiu os seguintes passos:
 - resgatar os dados do storage;
 - Transformar em objeto novamente;
 - mostrar mensagem personalizada para o usuário usando o template string;
+
+## Site responsivo
+
+Esta é a aparência do site quando está na responsividade
+
+![]()
 
