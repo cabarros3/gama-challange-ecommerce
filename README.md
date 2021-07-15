@@ -1,30 +1,47 @@
-![](https://github.com/cabarros3/web_developer/blob/master/img/page.PNG)
+![](https://github.com/cabarros3/gama-challange-ecommerce/blob/main/assets/images/page.PNG)
 
 # Hiring Coders #2 - Desafio 1
 ## O DESAFIO
 Criar um sistema de e-commerce para cadastro de email na landing page para recebimento de novidades e promoções.
+
 ## O QUE ENTREGAR?
- - Site Oficial / Landing page 
+
+- Site Oficial / Landing page 
  - Template do site oficial 
  - Landing page de promoções, estilo black friday
  - Cadastre seu e-mail para receber promoções 
  - Dados no localstorage
+
 ## ONDE HOSPEDAR?
 No netlify.
 
 # O PROJETO - PURPLE BEAUTY
-A Purple Beauty é um ecommerce de cosméticos, traz em seu catálogo uma grande variedade de marcas, das mais famosas até as revelações grandes revelações do ano. A landing page do projeto mostra a página especial de ofertas da 'Purple Friday' que é a versão da Purple Beauty para a tradicional black friday. O ecommerce adota um design bem minimalista. O figma com o projeto está [aqui](https://www.figma.com/file/BOStpBcp3Die788fBGK7K4/PURPLE-BEAUTY?node-id=0%3A1).
+A Purple Beauty é um ecommerce de cosméticos, traz em seu catálogo uma grande variedade de marcas, das mais famosas até as revelações grandes revelações do ano. A landing page do projeto mostra a página especial de ofertas da 'Purple Friday' que é a versão da Purple Beauty para a tradicional black friday. O ecommerce adota um design bem minimalista. O figma com o projeto está [aqui](https://www.figma.com/file/VojbMs9pYDYbYDgU9PSQBu/Untitled?node-id=0%3A1).
 
-## Paleta de cores
-A inspiração veio da paleta de cores da HBO MAX que possui algumas tonalidades de roxo.
+## Cores usadas no projeto
 
-![](https://t.ctcdn.com.br/OQ3vWFq_ZlRoKSFI1w0iQHEI1BE=/512x288/smart/i381617.jpeg)
+Para as fontes: Mauve(#f9b3f9), Branco(#fff)
+Para efeito de sombra: Rose Bonbon(#fb499e)
 
-Paleta de cores da HBO MAX [aqui](https://coolors.co/e5dbf7-b245fc-4500c0-362ac6-3e7ed7-b245fc-3d4ed1).
+## Imagem de fundo
 
-Logo, por se tratar de um evento black friday, a paleta de cores do projeto teve a adição do preto.
+A imagem de fundo foi escolhida no unsplash e você pode a encontrar [aqui](https://unsplash.com/photos/wHv3xjHhtUA).
 
-![](https://github.com/cabarros3/gama-challange-ecommerce/blob/main/Purple%20Beauty%20Palette.png)
+## Estrutura do projeto
 
-Paleta de cores do projeto disponível [aqui](https://coolors.co/a2a2a2-000000-3a2684-23174f-a2a2a2).
+Um menu e dois containers para mensagem da black friday e formulário
+
+![]()
+
+### Estrutura do js
+
+A lógica do javascript no projeto seguiu os seguintes passos:
+
+- adicionar um escutador de evento;
+- pegar os valores dos campos de nome e email;
+- criar um objeto para receber o nome e o email;
+- guardar no localStorage e transformar em string;
+- resgatar os dados do storage;
+- Transformar em objeto novamente;
+- mostrar mensagem personalizada para o usuário usando o template string;
 
