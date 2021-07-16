@@ -18,7 +18,7 @@ Criar um sistema de e-commerce para cadastro de email na landing page para receb
 No netlify.
 
 # O PROJETO - PURPLE BEAUTY
-A Purple Beauty é um ecommerce de cosméticos, traz em seu catálogo uma grande variedade de marcas, das mais famosas até as revelações grandes revelações do ano. A landing page do projeto mostra a página especial de ofertas da 'Purple Friday' que é a versão da Purple Beauty para a tradicional black friday. O ecommerce adota um design bem minimalista. O figma com o projeto está [aqui](https://www.figma.com/file/VojbMs9pYDYbYDgU9PSQBu/Untitled?node-id=0%3A1).
+A [Purple Beauty](https://purplebeauty.netlify.app/) é um ecommerce de cosméticos, traz em seu catálogo uma grande variedade de marcas, das mais famosas até as revelações grandes revelações do ano. A landing page do projeto mostra a página especial de ofertas da 'Purple Friday' que é a versão da Purple Beauty para a tradicional black friday. O ecommerce adota um design bem minimalista. O figma com o projeto está [aqui](https://www.figma.com/file/VojbMs9pYDYbYDgU9PSQBu/Untitled?node-id=0%3A1).
 
 ## Cores usadas no projeto
 
