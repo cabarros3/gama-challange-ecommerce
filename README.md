@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1597cc89-e34d-45c6-a510-d319cb9c7c5a/deploy-status)](https://app.netlify.com/sites/purplebeauty/deploys)
+
 ![](https://github.com/cabarros3/gama-challange-ecommerce/blob/main/assets/images/page.PNG)
 
 # Hiring Coders #2 - Desafio 1
