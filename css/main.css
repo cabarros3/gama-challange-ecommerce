@@ -1,0 +1,121 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: url("/assets/imagens/Rectangle 1.png");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+header {
+  font-family: "Cantarell", sans-serif;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: start;
+  height: 100px;
+}
+
+header h1 {
+  color: #fff;
+  font-size: 20px;
+  margin-left: 5%;
+  padding: 10px;
+}
+
+.links a {
+  text-decoration: none;
+  color: #fff;
+  padding: 5px;
+  font-size: 10px;
+  margin: 10px;
+}
+
+.links a:hover {
+  border: 1px solid #fff;
+  color: #f9b3f9;
+  transition: 0.3s ease all;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.neon-text {
+  font-size: 100px;
+  color: white;
+  margin-right: 10%;
+  font-family: "Antonio", sans-serif;
+}
+
+.neon-text h1 {
+  margin-left: -30%;
+  margin-top: 15%;
+  color: #f9cff9;
+  text-shadow: 0 0 0.1em #fb499e;
+  letter-spacing: 0.4rem;
+}
+.neon-text h2 {
+  margin-left: 20%;
+  margin-top: -10%;
+  color: #f9cff9;
+  text-shadow: 0 0 0.1em #fb499e;
+  letter-spacing: 0.4rem;
+}
+
+.get-email {
+  margin-left: 10%;
+  margin-top: 10%;
+  color: #f9b3f9;
+  text-align: center;
+  font-family: "Cantarell", sans-serif;
+  padding: 20px;
+  transition: 0.3s ease all;
+}
+
+.style-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#nome {
+  width: 300px;
+  margin-bottom: 10px;
+  border: none;
+  font-size: 15px;
+  padding: 10px;
+}
+
+#email {
+  width: 300px;
+  margin-bottom: 10px;
+  border: none;
+  font-size: 15px;
+  padding: 10px;
+}
+
+.get-email h2 {
+  color: #f9cff9;
+  font-family: "Cantarell", sans-serif;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#cadastrar {
+  border: none;
+  width: 150px;
+  height: 30px;
+  background-color: #f9cff9;
+  font-family: "Cantarell", sans-serif;
+  font-size: 10px;
+}
