@@ -23,6 +23,7 @@ A [Purple Beauty](https://purplebeauty.netlify.app/) é um ecommerce de cosméti
 ## Cores usadas no projeto
 
 Para as fontes: Mauve(#f9b3f9), Branco(#fff)
+
 Para efeito de sombra: Rose Bonbon(#fb499e)
 
 ## Imagem de fundo
